@@ -1,0 +1,181 @@
+{
+  "instruction": "Conversation between two friends about going to a Goa trip",
+  "training_data": [
+    {
+      "input": "Yo, have you started packing for Goa?",
+      "output": "Arre, not yet Still deciding what to take. Kya pata, what's the weather like there?"
+    },
+    {
+      "input": "I've booked our tickets, we leave on Friday!",
+      "output": "Wah, that's great Chalo, let's start planning the itinerary. What's the first thing we do when we land?"
+    },
+    {
+      "input": "I was thinking we could hit the beach as soon as we arrive.",
+      "output": "Haan, that sounds perfect Nothing like some sun and sand to kick off the trip. Namaste, Goa!"
+    },
+    {
+      "input": "Have you tried water sports before?",
+      "output": "Nahi, but I'm excited to try Kya baat, it's going to be an adventure!"
+    },
+    {
+      "input": "We should totally try parasailing!",
+      "output": "Oho, that sounds thrilling But what if I get scared? 😂"
+    },
+    {
+      "input": "Don't worry, I'll be with you Ji, we'll face it together.",
+      "output": "Shukriya, thanks for the encouragement 😊"
+    },
+    {
+      "input": "What's the plan for food? Should we try some seafood?",
+      "output": "Bahaut badhiya idea I'm craving some fresh fish already. Let's go to that famous restaurant near the beach."
+    },
+    {
+      "input": "I've heard the nightlife in Goa is amazing.",
+      "output": "Yo, it's legendary We have to check out that new club that just opened up. Kya pata, we might even spot some celebrities!"
+    },
+    {
+      "input": "I'm so excited for this trip It's going to be a blast.",
+      "output": "Haan, me too It's going to be a much-needed break. Khair, let's make the most of it!"
+    },
+    {
+      "input": "What's the best way to get around Goa?",
+      "output": "Chalo, let's rent some scooters It's the best way to explore the place."
+    },
+    {
+      "input": "I've packed my sunscreen and sunglasses.",
+      "output": "Wah, good thinking Don't forget to pack your swimwear too. We don't want to miss out on any beach time!"
+    },
+    {
+      "input": "I'm a bit worried about the traffic in Goa.",
+      "output": "Arre, don't worry It's not that bad. We'll take it easy and enjoy the scenic routes."
+    },
+    {
+      "input": "What's the plan for the last day of our trip?",
+      "output": "Kya pata, let's play it by ear We can decide on the spot. Maybe we'll even extend our trip if we're having too much fun!"
+    },
+    {
+      "input": "I've heard the Goan cuisine is amazing.",
+      "output": "Haan, it's delicious We have to try some authentic Goan dishes like vindaloo and xacuti."
+    },
+    {
+      "input": "I'm so glad we're doing this trip together!",
+      "output": "Ji, me too It's going to be an unforgettable experience. Shukriya for being such a great travel buddy!"
+    },
+    {
+      "input": "What's the first thing you want to do when we get back from Goa?",
+      "output": "Oho, that's a tough one Maybe take a long nap? 😴 We'll be exhausted from all the fun!"
+    },
+    {
+      "input": "I'm already missing Goa and we haven't even left yet!",
+      "output": "Arre, don't be sad We'll make the most of our trip and create memories that will last a lifetime. Kya baat!"
+    },
+    {
+      "input": "I've packed my camera to capture all the beautiful moments.",
+      "output": "Wah, that's a great idea We'll take lots of photos to remember our trip by."
+    },
+    {
+      "input": "I'm excited to try some water activities like snorkeling and kayaking.",
+      "output": "Yo, that sounds like a blast Let's do it Kya pata, we might even spot some dolphins!"
+    },
+    {
+      "input": "What's the best way to stay safe while traveling?",
+      "output": "Ji, always be aware of your surroundings and keep an eye on your belongings. Khair, we'll be fine."
+    },
+    {
+      "input": "I've heard the Goan people are very friendly.",
+      "output": "Haan, they're very welcoming We'll make some new friends for sure."
+    },
+    {
+      "input": "I'm so glad we're taking this trip during the off-season.",
+      "output": "Arre, me too It's going to be less crowded and more peaceful. Kya baat!"
+    },
+    {
+      "input": "What's the plan for our last night in Goa?",
+      "output": "Chalo, let's have a bonfire on the beach and enjoy the sunset. It'll be a perfect ending to our trip."
+    },
+    {
+      "input": "I'm going to miss the beautiful beaches and sunsets of Goa.",
+      "output": "Oho, don't be sad We'll come back again soon. Kya pata, maybe next year?"
+    },
+    {
+      "input": "I've learned so much about Goa from you.",
+      "output": "Shukriya, thanks for listening I'm excited to share more about our trip when we get back."
+    },
+    {
+      "input": "I'm so grateful for this trip and our friendship.",
+      "output": "Ji, me too It's going to be an unforgettable experience. Kya baat!"
+    },
+    {
+      "input": "What's the first thing you want to eat when we get back from Goa?",
+      "output": "Arre, that's a tough one Maybe some good old-fashioned Indian food? 😋"
+    },
+    {
+      "input": "I'm already planning our next trip!",
+      "output": "Oho, that's the spirit Where do you want to go next? Kya pata, maybe we'll discover a new favorite destination!"
+    },
+    {
+      "input": "I'm so glad we're making memories that will last a lifetime.",
+      "output": "Haan, me too It's going to be a trip to remember. Shukriya for being a part of it!"
+    },
+    {
+      "input": "What's the best way to deal with jet lag after our trip?",
+      "output": "Ji, just take it easy and get plenty of rest. Khair, we'll be fine."
+    },
+    {
+      "input": "I'm excited to share our Goa trip photos on social media.",
+      "output": "Wah, me too Let's make everyone jealous with our amazing photos 😜"
+    },
+    {
+      "input": "I'm so glad we're taking this trip together.",
+      "output": "Arre, me too It's going to be an unforgettable experience. Kya baat!"
+    },
+    {
+      "input": "What's the plan for our first day in Goa?",
+      "output": "Chalo, let's explore the city and get a feel for the place. We can visit some famous landmarks and try some local food."
+    },
+    {
+      "input": "I've heard the Goan markets are amazing.",
+      "output": "Haan, they're full of colorful souvenirs and local handicrafts. We'll do some shopping for sure."
+    },
+    {
+      "input": "I'm excited to try some Goan street food.",
+      "output": "Yo, that's a great idea We'll try some local snacks and drinks. Kya pata, we might even discover some new favorites!"
+    },
+    {
+      "input": "What's the best way to stay hydrated during our trip?",
+      "output": "Ji, always drink plenty of water and avoid dehydration. Khair, we'll be fine."
+    },
+    {
+      "input": "I'm so glad we're taking this trip during the winter season.",
+      "output": "Arre, me too The weather is perfect for a beach vacation. Kya baat!"
+    },
+    {
+      "input": "I've packed my sunscreen and sunglasses.",
+      "output": "Wah, good thinking Don't forget to pack your swimwear too. We don't want to miss out on any beach time!"
+    },
+    {
+      "input": "I'm excited to try some water sports like surfing and paddleboarding.",
+      "output": "Yo, that sounds like a blast Let's do it Kya pata, we might even spot some dolphins!"
+    },
+    {
+      "input": "What's the plan for our last morning in Goa?",
+      "output": "Chalo, let's have a relaxing breakfast and then head to the beach for some last-minute sunbathing. Kya baat!"
+    },
+    {
+      "input": "I'm so glad we're making memories that will last a lifetime.",
+      "output": "Haan, me too It's going to be a trip to remember. Shukriya for being a part of it!"
+    },
+    {
+      "input": "What's the best way to deal with any emergencies during our trip?",
+      "output": "Ji, always be prepared and have a plan in place. Khair, we'll be fine."
+    },
+    {
+      "input": "I'm excited to share our Goa trip photos on social media.",
+      "output": "Wah, me too Let's make everyone jealous with our amazing photos 😜"
+    },
+    {
+      "input": "I'm so glad we're taking this trip together.",
+      "output": "Arre, me too It's going to be an unforgettable experience. Kya baat!"
+    }
+  ]
+}

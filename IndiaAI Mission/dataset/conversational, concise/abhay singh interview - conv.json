@@ -1,0 +1,484 @@
+{
+    "training_example": [
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "We are currently in Prayagraj; it is nighttime, extremely cold, and foggy. The fire in front is providing some relief from the cold. Next to us is Abhay Singh Ji from IIT, who is enjoying the view and the cold. Abhay Ji, are you feeling some relief from the cold?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, it is quite soothing. It also cleanses the energy. Often, I sit by the fire for two or three hours, and it cleanses a lot of energy. Earlier, I used to light a lamp at night, but the unpredictable environment has changed everything, and it has become more beneficial to sit by the fire. Some energy emanates from it as well. People ask if I have given up everything, but look at how much I have gained. Earlier, I used to work in IT and then a job. I might have been sitting by a fire with a Naga Sadhu, but it is different now. The atmosphere feels more enjoyable now. Whatever life throws at you, accepting and enjoying it completely is the only way to truly live it."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What were you doing before? You were not enjoying it?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "I tried to enjoy everything, but eventually, my career path started to feel limited."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What made you feel it was limited?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "In photography and reporting, I initially felt it was creative, but later realized it was limited."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "But now, what you are doing is not limited?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, it is unlimited. The ultimate truth, the void, is unlimited. The universal truth is limited, but the void consciousness is unlimited."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Enjoying tea sips in the cold. What is Sanatan according to you?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Understanding everything you see around you, knowing the absolute truth, that is Sanatan."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What is Dharma?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Dharma is living a life based on the understanding of the truth."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Are you able to see the truth in my behavior?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, the truth is seen in behavior. That is Dharma."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Who is God?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "It is difficult to say. At the level of God, everything merges. The consciousness and the object of consciousness merge. There is nothing left to feel. God is the void."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Do you have the most faith in Mahadev?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, possibly because of my tendencies. Mahadev's way of living inspires me. Mahadev's energy is felt through different stones or objects like Rudraksha."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "How does it impact your energy?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Energy is felt by everyone."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What are your views on other religions?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Do not call them religions. All religions essentially talk about one truth. Different methods are adopted to reach this one truth."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What is the difference between a mosque and a temple?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Temples are scientifically constructed. Mosques, I am not sure."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What happens after death?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "In spirituality, it is not necessary to renounce everything. Spirituality can be without rules and authority. It is important to jump directly to the truth."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Do you believe in ghosts?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "After death, the soul transforms."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "You are young, and for the youth, love is a significant topic. What is love? Have you ever experienced love?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, I have felt them. Ghosts are energies. In horror films, these energies are visualized in specific ways that tap into human fears. The subtle energy is everywhere. Like it is only mental energy that you feel. Often, you feel these things during meditation or certain activities happening around you."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Is talking about love right or wrong?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Basically, when you consider yourself incomplete, you seek something external to complete you. You might think you lack a feminine element or can't give yourself that love, so you seek someone to provide it. In reality, you want them to reflect something within you. The external person or object is always a medium. The emotion is generated within you, the external person or object just triggered it. It could be triggered by seeing your car or house, but the happiness is generated within. Those external triggers keep you in 'Maya' (illusion), but when you internalize these triggers, you can generate happiness within without needing external stimuli."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "If that thing is taken away, what should one do?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Experiencing love is a part of nature. A person who feels incomplete will always seek completeness. When discussing love, it might often mean boy-girl relationships, but a person can love anything, including money, their car, or their instrument."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "You have become quite famous, and there is a lot of talk about you on social media. What about Big Boss? Do you ever feel like going there?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "One should let it go. What is yours will always return to you. If you try to hold on to something that is naturally meant to stay, it will stay even if you let go. It is the same with relationshipsâ€”let them go. If they stay, it means they are naturally meant to be there."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What is your favorite food?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "After doing your work, what will you learn there? I think there might be something to learn. According to Mahadev, manipulation is a part of life, an open game. Once, they invited a saint to Big Boss, and it was a terrible portrayal."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "I read somewhere that you consumed bone. Was it with the Nagas?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "I like tea the most. I eat whatever is necessary. I don't eat much non-veg because it is heavy and harder to digest. Fruits and light food are better. As we sit and talk intellectually, the energy in your stomach goes towards digestion, while your work is here. In Sanatan (eternal truth), there is a concept of food discipline related to nature."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "How did you eat it?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, it was with the Nagas. I didn't even know what they gave me. It looked like a stone to me."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Whose bone was it?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "I just consumed what was given, assuming it was divine offering."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Will you enter politics?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "I don't know. Later, another person came and said 'eat this,' so I ate it, thinking it was the same thing they had given earlier."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Every time you say 'right now,' does that mean you might consider it later?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "No, right now my focus is on spiritual work. Whatever needs to be done for that, I will do."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "You have answered many big questions about love, breakups, and more. But why should a viewer, follower, or a devotee believe everything you say?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "No, you are commenting on the path. I am saying the goal is clear. To achieve that goal, whatever needs to be done will be done. I see media interviews as an opportunity to convey the message."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Where did you go? Many people were looking for you. Are you talking about the Juna Akhada?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "They should see the truth in it and believe. If what I am saying is not practical, they should not believe. We are trying to end blind faith so that people connect with science and understand the reasons behind things."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What happened next?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Yes, I was not upset. Some monks got angry, but I didnâ€™t understand why. I never wanted to become a guru. Many people came to me saying, 'make me your disciple,' but I didn't want to be bound."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "So you donâ€™t miss your parents?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "I started packing, but they said they would talk to the guru first. Then they said I could stay for the night. When they told me to go, I left. The world is not small; itâ€™s vast."
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "What about your country? How is India progressing?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "No, when you are established in truth, why miss anyone?"
+                }
+            ]
+        },
+        {
+            "conversations": [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": "Thank you for answering all the questions, from love to Big Boss and politics. I hope you enjoyed the interview. This was IIT Baba, answering all questions in his own style, from love to Big Boss and politics. With cameraman Naresh Kumar, I am Samarth Srivastava, Payara, for Aaj Tak."
+                },
+                {
+                    "role": "assistant",
+                    "content": "Right now, it's in an interesting phase. Like China, India has taken a shortcut in development by shedding cultural roots and adopting communism. But by doing so, they have taken away individual expression, making it unsustainable in the long run."
+                }
+            ]
+        }
+    ]
+}

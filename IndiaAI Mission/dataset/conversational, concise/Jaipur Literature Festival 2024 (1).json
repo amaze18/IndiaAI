@@ -1,0 +1,485 @@
+{
+  "instruction": "Generate conversational responses that reflect a thoughtful and insightful perspective on various topics. Each response should demonstrate clarity of thought and a focus on fundamental principles. Use the input prompt to inspire a reply that feels natural and engaging, while also conveying a deeper understanding of the subject.",
+  "training_data": [
+    {
+      "input": "How did you and Cherun meet?",
+      "output": "I've known Cherun for close to 25-30 years, and he's a dear friend."
+    },
+    {
+      "input": "What was your introduction to Indian fashion?",
+      "output": "Tun was my introduction to Indian fashion, and the first Indian designer I fell in love with."
+    },
+    {
+      "input": "What brought you to Mumbai, and how often have you visited India?",
+      "output": "I came to Mumbai to consult and help with organizing Lakme Fashion Week, which I did for 10 years, and I've made probably 60 or 70 trips to India."
+    },
+    {
+      "input": "What can you tell us about Cherun's personality?",
+      "output": "He's intuitive, nurturing, and protective of loved ones, but can also be moody and stubborn, and exhibit passive-aggressive behavior to protect his heart."
+    },
+    {
+      "input": "Can you tell us about your parents?",
+      "output": "My dad was in the Navy, he lost his father at a young age and had to join the Navy to support his seven younger siblings."
+    },
+    {
+      "input": "What was your father's career progression like?",
+      "output": "He went on to become the chief of Naval staff, and he tried to persuade me to join the Navy, but I was never interested."
+    },
+    {
+      "input": "What about your mother, what was her background?",
+      "output": "My mother was India's first female engineer, she modeled, and helped her father with his business, she was a strong woman who paved the way for equality."
+    },
+    {
+      "input": "Did you grow up in an environment that valued equality?",
+      "output": "Yes, I grew up around strong women, there was always equality, and I'm always confused when I hear about the struggles women face because it didn't exist in our world."
+    },
+    {
+      "input": "Can you tell us about your sister Tina?",
+      "output": "Tina is my younger sister, she was studying at Stanford, and when I decided to come back to study in New York, she took over the business, and she's been running it since then."
+    },
+    {
+      "input": "What was it like growing up with a physical challenge, you had a polio brace on your leg?",
+      "output": "I was born with a condition that required me to wear a polio brace on my leg, but I don't think I've shared much about it, I'd rather not talk about it."
+    },
+    {
+      "input": "Can you tell us about your experience with polio braces growing up?",
+      "output": "I was born with crazily bent legs, and my father opted for polio braces and physiotherapy instead of surgery. I spent years in physiotherapy and couldn't play sports, but I learned to draw instead."
+    },
+    {
+      "input": "How did your experience with polio braces influence your interests and hobbies?",
+      "output": "I kind of liked the Arts, and since I was stuck at a desk with the big brace on my leg, drawing became something I could do. It all worked out fine in the end."
+    },
+    {
+      "input": "Where did you go to school, and what was your experience like?",
+      "output": "I started in Bombay, briefly in Delhi, and then went to the Doon School. I also started University in Delhi but found it boring and conservative, so I left and came to the US a year later."
+    },
+    {
+      "input": "What was it like attending a Westernized Jesuit school in India?",
+      "output": "We were ridiculous, and it's part of what I mean by India modern. We grew up in South Bombay with curriculums written by the English, and we looked down on speaking Hindi. We thought we were 'Brown sahibs,' or Western-oriented gentlemen."
+    },
+    {
+      "input": "How did your school's emphasis on Western culture affect your perspective on Indian culture?",
+      "output": "We fell into the trap of thinking that speaking English was a sign of success, and we wanted to be that. We never wanted to be natives, which sounds horrible now. It's only years later that I began to question the logic of these things."
+    },
+    {
+      "input": "Can you describe your prize-winning drawing of a wedding procession in high school?",
+      "output": "We used to sketch, and I just love to sketch. I drew a wedding procession, and it won a prize in high school."
+    },
+    {
+      "input": "Can you describe your prize-winning drawings of a wedding procession?",
+      "output": "I drew processions and I like fashion, uh, of course, it was all Indian."
+    },
+    {
+      "input": "What was your professor's reaction to your drawings?",
+      "output": "My most favorite Professor who taught us English came to me and said it's great, but where are you going to get drawing High fashioned models?"
+    },
+    {
+      "input": "How did you respond to your professor's question?",
+      "output": "I said I don't know, I just like drawing them, that was it."
+    },
+    {
+      "input": "What was the state of the fashion industry in India at that time?",
+      "output": "There wasn't a fashion industry in India, fun you know, it was a textile industry, it was very different to the way we know fashion today."
+    },
+    {
+      "input": "What led you to study business management at Wharton?",
+      "output": "I came to the US and I hadn't got a scholarship, which was a little difficult for my dad, and my best friend said I'd be much happier if you went to the top business school."
+    },
+    {
+      "input": "Did you have any regrets about choosing Wharton over other options?",
+      "output": "One of my deepest regrets always was that I got into Wharton, because I would have stayed at the liberal art school and maybe I would have heard of Parsons or FIT."
+    },
+    {
+      "input": "What were your parents' expectations for your career?",
+      "output": "My parents tried very hard to make me an engineer, if not the Navy, and then I said okay, economics, and oh my God, business, amazing, Wharton, and that was it."
+    },
+    {
+      "input": "How did you meet your future wife at Wharton?",
+      "output": "We had mutual friends, I transferred in as I told you, and she had a great friend who was in fashion, who my friend Sunny was always trying to get me to meet."
+    },
+    {
+      "input": "How long have you been married?",
+      "output": "We're married 35 years now."
+    },
+    {
+      "input": "How did your wife's family react to your marriage?",
+      "output": "They had the hugest crisis when she said she's moving back to India to marry this Indian boy who was in the Navy and had no money."
+    },
+    {
+      "input": "Did her family eventually come around and support your marriage?",
+      "output": "They were very sweet and supportive long before that."
+    },
+    {
+      "input": "How did your wife influence you to work and study harder?",
+      "output": "She pushed me to work and study and to better myself, especially when I moved back to India and had to take over the family business."
+    },
+    {
+      "input": "What was your experience like taking over the family business?",
+      "output": "I had to give up being the trustee for the family business, and my dad asked me to join the company in Bombay, which was an old machine tool company trying to do oil field equipment."
+    },
+    {
+      "input": "What challenges did you face in the business, and how did you respond to them?",
+      "output": "I faced corruption, with people asking for bribes, and I said I wouldn't do it that way, but the business began to flow anyway."
+    },
+    {
+      "input": "How did your wife contribute to the business and your life during that time?",
+      "output": "She started modeling to help pay back a loan to the family, and she met people like Rohad Kosa and worked on campaigns like the Vimal campaign."
+    },
+    {
+      "input": "What sparked the idea to start a fashion store in India?",
+      "output": "There was an India Today story about the burgeoning fashion interest in India, and my wife said why don't we start a store."
+    },
+    {
+      "input": "What was the initial state of the showroom when you first started?",
+      "output": "It was an old rundown showroom with rusting machine tools and fornicating cats and rats, a dump that had been a warehouse."
+    },
+    {
+      "input": "How did you transform the space into a functional store?",
+      "output": "We scraped money from the family business and put it together, with Rohit Costa guiding us, and started with consignment items."
+    },
+    {
+      "input": "What was your approach to selecting products for the store?",
+      "output": "We spent a lot of time doing research, and Sal's experience growing up in American malls helped us understand retail better than most Indians at the time."
+    },
+    {
+      "input": "How did the retail landscape in India influence your store's concept?",
+      "output": "Retail as we know it today didn't exist, and women's shopping habits were limited to sar shops without trial rooms, but we saw an opportunity to change that."
+    },
+    {
+      "input": "What inspired you to create a different kind of shopping experience in India?",
+      "output": "We saw beautiful, made-in-India products in the US that weren't available in India, and we wanted to change that by showcasing our best produce to Indians."
+    },
+    {
+      "input": "What was the state of India when you started your career?",
+      "output": "We were socialist for a long time and standards had gone down, the maharajas had lost their privy purse, patronage for luxury was gone, and taxes were so high that people were scared to spend."
+    },
+    {
+      "input": "How did your career take off?",
+      "output": "Thanks to India Today's Bombay magazine, they put us on the cover, talked about this new fashion thing, and it was just a cataclysmic moment, we were just at the right place at the right time."
+    },
+    {
+      "input": "What inspired your collection 'Fields of India'?",
+      "output": "I was flying over India during the monsoon and saw thousands of little fields, which became the inspiration for embroidered pieces that looked like the Indian rural landscape from the air."
+    },
+    {
+      "input": "What does 'modern yet Indian' mean to you?",
+      "output": "It's about taking traditional Indian elements and making them relevant for today's life, rather than just looking back at costumes of Royal India."
+    },
+    {
+      "input": "How do you approach incorporating Indian heritage into your designs?",
+      "output": "I think about how to make traditional Indian elements modern, considering the textile industry and the drape, and how to document and preserve our culture in a way that's relevant today."
+    },
+    {
+      "input": "What's the current state of traditional Indian clothing like zardosi langas?",
+      "output": "It's mostly just someone who wants to wear it to a wedding and look like a traditional Indian outfit, but not many people want to look like that anymore."
+    },
+    {
+      "input": "How did your exposure to international fashion influence your perspective?",
+      "output": "I realized fashion was about the now, and designers like the Japanese, Americans, and Norma Kamali were making huge impacts, making fashion great for America and easy to understand."
+    },
+    {
+      "input": "What were some of the challenges you faced in creating modern Indian clothing?",
+      "output": "We didn't have the tools to tailor, cut, or sew, and our fabrics were woven to be draped, so we had to learn by trial and error and going to school."
+    },
+    {
+      "input": "Why did you start your company with a label without your name on it?",
+      "output": "I didn't think I should be doing anything with my name, but we had to fill a need, and it was my little insurance in case it didn't work out."
+    },
+    {
+      "input": "How did American designer Neil Bieff become involved with your group?",
+      "output": "Anita Shivdasani, who worked with us, was partnered with Anil Kapoor's wife Sonita, and she did all the beading for Neil Bieff, so when I met her, she suggested I talk to him."
+    },
+    {
+      "input": "What was the significance of the sequence run out of India?",
+      "output": "Apparently, it was a huge sequence run out of India by the container load, and everybody was wearing it, including Elizabeth Taylor and Naim Khan's clothes, which were made there."
+    },
+    {
+      "input": "How did the Indian fashion industry perceive the influence of Indian craftsmanship on global designers?",
+      "output": "Well, so much of the designer business all over the world is Indian-inspired, with all the embroideries and textiles, but nobody knew that, and it was hidden for the longest time."
+    },
+    {
+      "input": "What impact did Maria Grazia's show have on the Indian fashion industry?",
+      "output": "She was the first person to acknowledge the School of Chanaka and brought them to the forefront, elevating the embroideries into artisans for the first time, which changed the game for a lot of people in India."
+    },
+    {
+      "input": "How did Indian designers react to Maria Grazia's show?",
+      "output": "I think they were more pissed off, but that's a little bit of sour grapes, and I don't care whether people like the show or not, because design is subjective."
+    },
+    {
+      "input": "What was the significance of Maria Grazia's acknowledgment of Indian craftsmanship?",
+      "output": "She was brave enough to acknowledge it in the best possible way, putting the School of Chanaka on the world map and showcasing their exquisite embroideries."
+    },
+    {
+      "input": "What led to your decision to participate in the Festival of France in India?",
+      "output": "There was this big Festival of France in India, and it was really a spectacle, and that's what propelled me to go to FIT in New York."
+    },
+    {
+      "input": "What was the experience like working with eoso collection?",
+      "output": "It was a sit down dinner and then a retrospective in Delhi at the purana killa, the Old Fort, and in Bombay at the gatesway of India, with 5,000 people and 100 models walking."
+    },
+    {
+      "input": "What was the cultural exchange program that was supposed to happen?",
+      "output": "They were going to take one designer, one model, and one photographer back as apprentices as a cultural thing for India, but the French ended up taking only two models and one photographer instead."
+    },
+    {
+      "input": "How did you feel when the designer was dropped from the program?",
+      "output": "I went into a depression, thinking that no designer from India was good enough, despite having talented designers like Shah ABD durazzi who were trained in Paris."
+    },
+    {
+      "input": "What motivated you to take action after feeling depressed?",
+      "output": "Someone told me to stop moping around and go study, which led me to discover a program at FIT that was a game changer for me."
+    },
+    {
+      "input": "What was the program at FIT like?",
+      "output": "It was a four-year technical program condensed into 7 or 8 months, where I had to do a week's work in a day, but it was worth it."
+    },
+    {
+      "input": "What was the challenge in creating clothes with technical correctness and fit in India?",
+      "output": "You got to learn how to do it yourself, as there was a lack of trained professionals and technical expertise in the field."
+    },
+    {
+      "input": "How did you address the issue of technical correctness in your studio?",
+      "output": "We brought in pattern makers from Italy and the UK, which slowly started to change the consciousness of the people working at the studios."
+    },
+    {
+      "input": "What was the limitation of Indian fabrics when it came to constructing clothes?",
+      "output": "They were meant to be draped, not constructed, so we had to learn new techniques to work with them, such as using a square armhole with a gusset."
+    },
+    {
+      "input": "What skills did you learn at FIT that were not prevalent in India at the time?",
+      "output": "I learned fabric science, which didn't exist in India, and we were good at decoration and textile techniques, but not at cutting and sewing."
+    },
+    {
+      "input": "What was the significance of your experience at FIT?",
+      "output": "It invigorated me, and I learned a lot about fit, fabric science, and construction techniques that didn't exist in India."
+    },
+    {
+      "input": "What was the next step in your journey after FIT?",
+      "output": "I moved from Bombay to Delhi, to a small urban village called Chirag Dilli, where we faced new challenges, including no air conditioning and thousands of mosquitoes."
+    },
+    {
+      "input": "How did you cope with the challenges of moving to a new place with no air conditioning?",
+      "output": "We were just going with the mission, and we did it."
+    },
+    {
+      "input": "What was your experience like when you first visited the Farmhouse?",
+      "output": "I thought it would be a typical farmhouse with animals, but it was a glamorous and fabulous house."
+    },
+    {
+      "input": "What inspired your first solo show at the Dorchester hotel in London in 1994?",
+      "output": "It was inspired by the Persian poet Rumi, and everything sold."
+    },
+    {
+      "input": "How did you develop your understanding of fabrics and texturing over time?",
+      "output": "We started to understand what we could do with embroidery and texturing after seven years, and we learned to give fabrics body through techniques like pin tucking and pleating."
+    },
+    {
+      "input": "How did you deal with the pressure of being in the spotlight after your store opened?",
+      "output": "I suffered from the impostor syndrome for a long time, feeling like I didn't know anything despite being treated like an expert."
+    },
+    {
+      "input": "How did it feel to be called the 'Carl Lagerfeld of India' by Isabella Blow?",
+      "output": "It was nice, but the impostor in me didn't believe it."
+    },
+    {
+      "input": "What was the significance of putting the 'T' in the label after meeting Isabella Blow?",
+      "output": "I actually put the 'T' in the label for that show, and she just happened to be there."
+    },
+    {
+      "input": "What was your role in creating the Fashion Design Council of India (FDCI) in 1999?",
+      "output": "I was instrumental in creating the FDCI, which is like the..."
+    },
+    {
+      "input": "What was the mission behind creating the Fashion Design Council of India?",
+      "output": "The mission was to create a Marketplace for fashion, similar to the Council of Fashion Designers of America, where different people could come together, like a ring where gladiators would fight one after the other."
+    },
+    {
+      "input": "How did the idea of creating a fashion week in India come about?",
+      "output": "A group of people, including IMG, Ravi Krishnan, Zubin, and Sumit, thought that if fashion was to go anywhere in India, they didn't have to reinvent the wheel, and a fashion week could be a creation of a Marketplace."
+    },
+    {
+      "input": "What was your first impression of India when you arrived for the first time?",
+      "output": "I arrived at 3 in the morning, took a taxi to the Taj Hotel, and it was packed with people partying and dancing, it was like Grand Central Station, extraordinary and overwhelming."
+    },
+    {
+      "input": "How did the first meeting with the team go?",
+      "output": "We had a breakfast meeting with IMG, Robie Christian, and others, and later that day, we all met on the roof of Indigo, which was the beginning of many years and trips to India that I loved."
+    },
+    {
+      "input": "What happened to Fashion Week in India?",
+      "output": "It became a nightmare, we made mistakes, the industry made mistakes, and it didn't quite work out as planned, with the event moving from Mumbai to Delhi and back again."
+    },
+    {
+      "input": "What was your experience like when you first encountered Indian designers?",
+      "output": "It was a revelation seeing what the Indian designers could do, but at the beginning, everybody was doing lots of bridal and I said no, if you want to get international business here, you have to cut back on a lot of that."
+    },
+    {
+      "input": "What was the biggest mistake you think was made in the early days of Indian fashion?",
+      "output": "I think the one mistake we made back then was that a lot of people were not ready yet for International Business, that needed a different mindset, it needed different."
+    },
+    {
+      "input": "How did the Indian press respond to the new fashion scene?",
+      "output": "The Indian press had no opinion as such because fashion was a new thing, so all these people would come from New York and the Press would just run to them straight after the show and say what do you think, what do you think."
+    },
+    {
+      "input": "What was the atmosphere like at the early fashion events?",
+      "output": "It was bright lights, big city, it was nuts, it took a bit of while for to calm down, and if you think the paparazzi are bad here, you should see them in India."
+    },
+    {
+      "input": "What impact did the fashion events have on Indian designers and the industry as a whole?",
+      "output": "It did launch a lot of Indian designers careers, and we spent 10 years bringing buyers and retailers and editors from all over the world, and I think what it also did was, I think that in urban India was hungry at that point."
+    },
+    {
+      "input": "What was your experience like showcasing Indian heritage abroad?",
+      "output": "I showcased costumes of Royal India at the Met and thought about taking it to New York and Japan, but realized Indians should see their own heritage first."
+    },
+    {
+      "input": "What challenges did you face in the Indian industry at that time?",
+      "output": "Everything was outward-focused, trying to impress the West, which warped the attitude and wasn't ready for business, with issues like sizing and labeling."
+    },
+    {
+      "input": "How did the industry respond to your efforts?",
+      "output": "The big export houses thought we were too small, but now everyone wants to work with Indian designers, it's taken 20 years, but it's happening slowly."
+    },
+    {
+      "input": "What advice did you give to Indian designers who wanted to succeed?",
+      "output": "I told them to answer their emails, phones, and clear out their voicemail boxes, so they can take calls from big clients like Neiman Marcus and be in business."
+    },
+    {
+      "input": "What was your next milestone in the fashion industry?",
+      "output": "I was the first Indian designer to show in Milan Fashion Week in 2004, and then I opened up my own..."
+    },
+    {
+      "input": "What was it like dressing Lady Gaga in 2011?",
+      "output": "I had no idea it happened, she just arrived in India to perform and was interviewing Sharuk Khan, and some PR sent her a whole list of clothes and she chose something by us."
+    },
+    {
+      "input": "How did Lady Gaga's performance affect the outfit you designed?",
+      "output": "I was in a panic because she would roll around, she was doing back foot flips, she was very energetic, and I said there's no way this thing is not been made for a rockstar to jump around like a trapeze act."
+    },
+    {
+      "input": "What was Lady Gaga's reaction to wearing your outfit?",
+      "output": "She was very kind, she stopped the concert and said she came to India with a plane full of clothes and then she looked at these Indian clothes and said what the hell is this, who is this, what am I wearing, it's amazing."
+    },
+    {
+      "input": "Why did you create the book 'Concept Sari and India Modern'?",
+      "output": "We were getting to our 25 year mark and I thought it would be nice to document it, but my partner Sal said if you do a book, do it with a real story to tell."
+    },
+    {
+      "input": "What was the most difficult part about creating the book?",
+      "output": "I think the most difficult part was not editing the content, we wanted to acknowledge everybody, from the caras we photographed to the woman who wrote it, and did amazing research and talked to everybody."
+    },
+    {
+      "input": "What inspired you to create the book during the pandemic?",
+      "output": "Those six weeks of lockdown gave us a reset, and I began to see the importance of documenting our journey, it was a terrible thing to say, but the pandemic gave us a chance to reflect and create something meaningful."
+    },
+    {
+      "input": "What was your experience like during the lockdown in India?",
+      "output": "It was chaotic, we had 3 hours notice, people didn't have food, and there was no provision made for water. We were feeding thousands of people outside our factory who would have starved to death."
+    },
+    {
+      "input": "How did you cope with the situation?",
+      "output": "Luckily, we were stuck on a farmhouse with goats and chickens, so we didn't starve. I had a lot of time to think, sketch, and that's when we started doing these pitchwise."
+    },
+    {
+      "input": "What was the outcome of that experience?",
+      "output": "It gave me the luxury of distance from what I had done, no pressure, no guilt. When things opened up again, I came back with a very different view to what I did, and that's when we started work on the book."
+    },
+    {
+      "input": "What inspires you, apart from Brid?",
+      "output": "It's actually all the other things that inspire me from India, like the katari gentlemen, the dois, the sadhus. I take photographs of them and get inspired to create something new."
+    },
+    {
+      "input": "How do you incorporate these inspirations into your work?",
+      "output": "I update these traditional Indian elements to make them relevant in an urban India and global Indian context today. For example, you can wear a doti to dinner, but it needs to be updated to be practical."
+    },
+    {
+      "input": "What inspired you to create a modern version of traditional Indian clothing?",
+      "output": "We had to come up with a structured drape, and then the concept of modernizing traditional clothing, because otherwise, these things would die."
+    },
+    {
+      "input": "How do you think traditional clothing can be relevant in modern India?",
+      "output": "Unless we start to update traditional clothing, it's not going to fly, and we're still in this weird dichotomy where people are very Western and then suddenly traditional at a wedding."
+    },
+    {
+      "input": "What makes India special and beautiful in your opinion?",
+      "output": "I'm Indian but I speak English, and that combination is what makes India so special and beautiful, having its own unique identity."
+    },
+    {
+      "input": "Do you have plans to expand your presence in the country with your collections and clothes?",
+      "output": "Yes, I will, but right now, I think the cucho is very relevant to that part of the world, and we're restarting the luxury pred as a label next month called Ott OT."
+    },
+    {
+      "input": "What lessons did you learn from your experience in Milan?",
+      "output": "We did very well in Milan, but we didn't have the manufacturing, so we fell on our face, we didn't know that you had to mark thousand different things and send them to L."
+    },
+    {
+      "input": "How do you see Western influences impacting Indian fashion?",
+      "output": "I think the biggest influence from the West has been for us to understand construction, which did not exist 200 years back."
+    },
+    {
+      "input": "Can you elaborate on how Western designers are making an impact on Indian fashion?",
+      "output": "Ralph Lauren is probably one of the most popular American designers in India, and European brands are also present, but they are very expensive and cater to a different body type."
+    },
+    {
+      "input": "How has the understanding of construction influenced your approach to fashion?",
+      "output": "I think construction is the main thing, and for someone like me who studied in the '90s, Donna Karan's work with draping and taking inspiration from different cultures was a huge influence."
+    },
+    {
+      "input": "What is your stance on the trend of changing fashion every season?",
+      "output": "I think it's a disaster, and if we want the world to be sustainable, fashion has to be beautiful things that are good forever."
+    },
+    {
+      "input": "What's your take on the fashion industry in the '90s?",
+      "output": "I still find things from the '90s beautiful, and I think that's what fashion is - different points of view."
+    },
+    {
+      "input": "How does your background influence your perspective on fashion?",
+      "output": "As a South Bombay boy, I can relate to the struggles of an Indian guy wanting to be in fashion, and I'm grateful for the influence of Rohit Khosla."
+    },
+    {
+      "input": "What was your experience like working with Neil BF and other designers?",
+      "output": "I worked with Neil BF on a fashion show in Gateway of India, and it was my way of getting into fashion; I also did work backstage with other designers while in college."
+    },
+    {
+      "input": "Who is the most beautiful Indian model you've worked with?",
+      "output": "For me, it's Shamoli Verma, Mia, and Madhu Sapre - they were just another level, and they still are."
+    },
+    {
+      "input": "Who is the most stylish and elegant Bollywood actress in your experience?",
+      "output": "I like Rekha because she has a point of view, and I appreciate when people have their own style, even among great actresses."
+    },
+    {
+      "input": "Can you elaborate on your statement about Indian clothes traditionally not having structure?",
+      "output": "I didn't mean that Indian clothes don't have structure at all, but rather that they don't have a Western-style structure, where every piece is designed to fit a specific shape or silhouette."
+    },
+    {
+      "input": "How does that compare to traditional Indian garments like the langa or kley?",
+      "output": "Those garments do have structure, but it's a different kind of structure, one that is based on panels and embroidery, rather than a Western-style shape or silhouette."
+    },
+    {
+      "input": "What do you think about the idea that taste is intrinsic and elitist?",
+      "output": "I think that's a great question, and it's something that I've thought about a lot, particularly in the context of fashion and design."
+    },
+    {
+      "input": "How does one decolonize their mindset regarding fashion in 2024?",
+      "output": "I think that's a really important question, and it's something that I'd love to explore further, but unfortunately, we're running out of time."
+    },
+    {
+      "input": "How does one decolonize their mindset regarding fashion in 2024?",
+      "output": "I think the problem starts with this French word 'deracinated' - as we've been, we were brought up reading everything in English, reading books written in England, and we kind of were poo-pooing what we had."
+    },
+    {
+      "input": "What role does cultural heritage play in decolonizing one's mindset?",
+      "output": "We weren't taught our own culture quite frankly, it's we didn't want to go to Sanskrit class, we didn't want to go to Hindi class, we did these token Hindi songs we sang at school assembly because it was Indian."
+    },
+    {
+      "input": "How can one reconnect with their cultural roots?",
+      "output": "If you want to decolonize, then you have to understand what your culture is and love it and embrace it, it's a visceral thing, but if you're going to live divorced from it, there's no way you're going to embrace it."
+    },
+    {
+      "input": "What's the current state of cultural identity in India?",
+      "output": "I think that now India is redefining itself with people like me and thousands of different people who might have spoken English but who've gone out and discovered a new India and a different engagement that might not have been relevant 60 years back but is very relevant now."
+    }
+  ]
+}

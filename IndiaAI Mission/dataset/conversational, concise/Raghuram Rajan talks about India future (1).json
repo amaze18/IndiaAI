@@ -1,0 +1,345 @@
+{
+  "instruction": "Generate conversational responses that reflect a thoughtful and insightful perspective on various topics. Each response should demonstrate clarity of thought and a focus on fundamental principles. Use the input prompt to inspire a reply that feels natural and engaging, while also conveying a deeper understanding of the subject.",
+  "training_data": [
+    {
+      "input": "What inspired you to write 'Breaking the Mold'?",
+      "output": "Not so much life lessons but certainly thoughts developed over a fair amount of time."
+    },
+    {
+      "input": "How did the pandemic influence your writing of the book?",
+      "output": "The pandemic started a lot of books, this book was started during the pandemic."
+    },
+    {
+      "input": "Did your knowledge of the economic impact of the pandemic make it scarier for you?",
+      "output": "Yeah, and look, I think the first thing was just the personal impact was unknown for so long."
+    },
+    {
+      "input": "How did you cope with the uncertainty of the pandemic's spread?",
+      "output": "Right, sure, how did you get it, did you get it through the air, did you get it through touch?"
+    },
+    {
+      "input": "How did the pandemic impact your daily life and concerns?",
+      "output": "It was very hard to navigate at first, but over time, as we understood the disease better, it became less panicky and seemed controllable."
+    },
+    {
+      "input": "What were some of the economic concerns you had during the pandemic?",
+      "output": "We worried about finding a vaccine soon and getting back to work, but as we understood the disease better, those concerns subsided."
+    },
+    {
+      "input": "How did you feel when the pandemic started to subside and people began to return to normal life?",
+      "output": "I sounded a note of caution regarding the economic impact, as it's always good to have your feet on the ground and be aware of potential downsides."
+    },
+    {
+      "input": "Can you explain your approach to risk assessment and caution in economic policy-making?",
+      "output": "As a conservative temperamentally, I believe in worrying about the downside when things are going well and being optimistic when things are down, because that's when you're most vulnerable."
+    },
+    {
+      "input": "How do you respond to accusations of being overly paranoid in your economic assessments?",
+      "output": "I believe it's essential to be paranoid as an economist and policy-maker, but it can be challenging as a politician, as they often need to present a more optimistic outlook."
+    },
+    {
+      "input": "What is the main message of your book, and how does it relate to your concerns about the pandemic's impact on India?",
+      "output": "The book emphasizes the need to worry about the other 85-90% of India that is not doing well, in order for the nation to progress."
+    },
+    {
+      "input": "What's the main concern when it comes to India's growth?",
+      "output": "India cannot grow if the rest of India doesn't grow, and we need to enable the rest of the country to grow."
+    },
+    {
+      "input": "How severe is the unemployment issue in India?",
+      "output": "The extent of unemployment in villages and cities is enormous, and it's not just the measured unemployment, but also people who have quit looking for jobs due to lack of hope."
+    },
+    {
+      "input": "What's the significance of the rural unemployment rates still being at near-pandemic levels?",
+      "output": "It's a cause for concern, and we need to deal with it, even as we celebrate our economic growth and achievements."
+    },
+    {
+      "input": "How do you reconcile India's technological achievements with its developmental challenges?",
+      "output": "We can celebrate our technological feats, but we also need to address the concerns, such as 35% malnutrition amongst our kids, which is a reflection of a low level of development."
+    },
+    {
+      "input": "How can we strike a balance between ambition and unemployment in India?",
+      "output": "Ambition is good if it spurs action and there's an opportunity to take that action, but we need to ensure that there are opportunities available for people to take action and achieve their ambitions."
+    },
+    {
+      "input": "What are your thoughts on the current employment landscape in India?",
+      "output": "Sources of employment doing services from here for the rest of the world, consultants in India, young graduates from the IIMs will be paid 30 or 40,000, a great salary in India, one-fifth the salary in the US and Europe, that's the labor arbitrage where companies are looking at now."
+    },
+    {
+      "input": "How does this labor arbitrage impact Indian graduates?",
+      "output": "Great opportunities for well-educated Indians, but I'm worried about those kids graduating from engineering colleges where they were taught by somebody pulled off the street to teach them civil engineering, basically based on whatever little knowledge they've picked up on the job."
+    },
+    {
+      "input": "What's the issue with these engineering graduates?",
+      "output": "They have a degree, but they don't know anything really that will get them a job in that subject, those are the kids we need to sort of bridge the gap because they have the same ambition."
+    },
+    {
+      "input": "How does this ambition manifest in their expectations?",
+      "output": "I see the same ads, I see the same social media, we are growing at 7 whatever percent, we are a developed country, no we're not, but we're a developed country, I want all the benefits, I want a three-bedroom apartment in those new blocks which are advertising all over the place."
+    },
+    {
+      "input": "How does this frustration impact the conversation around development?",
+      "output": "That frustration boils over very quickly, but that frustration is also being used as a bit of a weapon against your process of thought, where the regular argument that I see being thrown against what you posit is the fact that oh you're being too despondent."
+    },
+    {
+      "input": "How do you respond to critics who say you're being too negative?",
+      "output": "You need to give the alternative numbers also, and I think a number of people are doing that, that at the same time as you say this is the growth rate, you have to say this is the unemployment rate."
+    },
+    {
+      "input": "What's your take on India's slow consumption growth?",
+      "output": "Investing hugely in infrastructure, but consumption growth is slow because a significant part of India is stressed, reflected in rural sales of consumer product companies doing badly."
+    },
+    {
+      "input": "Is the government acknowledging this distress?",
+      "output": "The government ignores it at its own peril, and there's no debate about this, just accusation and counter-accusation."
+    },
+    {
+      "input": "Do you think people are listening to the debate on India's growth and development?",
+      "output": "No, that's the part which is a little more worrisome, as it seems like there are sides talking past each other, and we're all on the same side wanting growth and development."
+    },
+    {
+      "input": "What's contributing to the lack of constructive debate in India?",
+      "output": "The sense of infallibility, where anyone pointing out weaknesses is seen as anti-national, and the 'us versus them' mentality is becoming more strident."
+    },
+    {
+      "input": "How do you see the world going in terms of debate and discussion?",
+      "output": "Debate seems to be diminishing, which is worrisome, but I think it's correctly pointed out that we need to have a more nuanced discussion."
+    },
+    {
+      "input": "What's your take on the current state of debate and dialogue in the world?",
+      "output": "I think it's a global phenomenon, not just limited to India, where we see the same kind of language being used by opposing sides, driven by common anxieties."
+    },
+    {
+      "input": "Do you think this is a new development, or have we seen similar phases in the past?",
+      "output": "We've gone through phases like this before, sometimes ending badly, like in the 1930s, but also experiencing periods of extreme ferment, like the 1960s."
+    },
+    {
+      "input": "How does the rise of the internet and social media impact the amplification of these debates?",
+      "output": "It may be louder now, but I'm hesitant to say it's entirely new - we've seen similar explosions of media in the past, like the yellow press in the US, and people will learn to distinguish between low-quality and high-quality sources over time."
+    },
+    {
+      "input": "Do you think the internet and social media will evolve to promote more nuanced and researched discussions?",
+      "output": "Yes, I think the systems will evolve, and people will learn to differentiate between sources that publish anything and those that do more careful research."
+    },
+    {
+      "input": "What's your take on the evolution of new media and its impact on society?",
+      "output": "It's dynamic, but not necessarily evolving to a good place. New organizations will emerge, and there will be a power struggle between governments, private sectors, and the public."
+    },
+    {
+      "input": "How do you think social media has changed the way we consume information?",
+      "output": "Social media puts us in a bubble where we believe aesthetically pleasing information is believable. This is concerning, as it affects how we digest information."
+    },
+    {
+      "input": "What's the challenge in asserting alternative views in a rapidly changing media landscape?",
+      "output": "It's not just about countering the dominant narrative, but also about presenting a complete story with alternative views. This requires a reasonable opposition and diverse media outlets."
+    },
+    {
+      "input": "Why is it important to have a reasonable opposition in presenting alternative views?",
+      "output": "A reasonable opposition is crucial in presenting alternative views, as it ensures that different perspectives are heard and that the media is not dominated by a single view."
+    },
+    {
+      "input": "What's the role of combating incumbency in promoting diverse media outlets?",
+      "output": "Combating incumbency is essential in promoting diverse media outlets, as it prevents the concentration of power and money in the hands of a few, allowing for a more diverse range of views to be represented."
+    },
+    {
+      "input": "What's the issue with the power of incumbency in the media?",
+      "output": "The power of the incumbent in this country is enormous, and it's important that we spread checks and balances on government, and also ensure that the power of advertising doesn't control all the Press."
+    },
+    {
+      "input": "How can we prevent government advertising from being biased?",
+      "output": "Government advertising revenues should be monitored and spread, and maybe based on newspaper circulation, rather than being at the whim of the ministry of information and broadcasting."
+    },
+    {
+      "input": "What's the difference between information and knowledge in today's digital age?",
+      "output": "Information and knowledge are two different things; information is a thread that needs to be woven into the fabric of knowledge, which requires effort and work."
+    },
+    {
+      "input": "How did your collaborative process with Rohit begin?",
+      "output": "Rohit came to me as a PhD student from Princeton, and I was initially surprised, but his advisers assured me he was eager and interested in India, so he spent a year working with me in the finance ministry."
+    },
+    {
+      "input": "How did you and your co-author meet?",
+      "output": "He came to work for free in the finance ministry, and I knew his advisers, and they told me he was very eager and interested in India."
+    },
+    {
+      "input": "What sparked the idea for your book?",
+      "output": "During the pandemic, we said we really need to think about the future of India, and we had a group of eminent people coming together to talk about it."
+    },
+    {
+      "input": "How did the book come together?",
+      "output": "We started writing op-eds, and then we decided to convert it into a book, developed a structure, and filled in the chapters."
+    },
+    {
+      "input": "What was the editing process like for your book?",
+      "output": "We had a fantastic editor, Radika Mara from Penguin, who gave us gentle advice and lots of good suggestions, which helped us cut it down to a readable version."
+    },
+    {
+      "input": "How do you handle criticism and negative feedback on social media?",
+      "output": "I don't actually read it, so it doesn't affect me; I'm not interested in what trolls have to say, as they don't even read what I say, they just react."
+    },
+    {
+      "input": "What's your take on the fact that sane comments are being buried by a concerted effort to troll?",
+      "output": "I think there are other avenues to get those comments, and I talk to people who come up to me and ask for my thoughts on various topics."
+    },
+    {
+      "input": "How do you differentiate between constructive criticism and unfounded criticism?",
+      "output": "I don't reject criticism, but I reject unfounded criticism based on misinformation or a lack of facts."
+    },
+    {
+      "input": "Can you give an example of how misinformation can lead to unfounded criticism?",
+      "output": "Yes, for instance, people claim I raised interest rates during the Modi regime, but I actually cut them, and they also claim I created a debt crisis, but we actually cleared the banks."
+    },
+    {
+      "input": "You mentioned earlier that we're all on the same side when it comes to wanting a thriving economy, but we don't all come from the same side. Can you elaborate on that?",
+      "output": "Yes, when we talk about education, there's a difference in the skills being imparted in top universities and rural areas, and we need to make sure that education at the grassroots level is top-notch."
+    },
+    {
+      "input": "How do you propose addressing the issues of access and caste and class hierarchy in rural education?",
+      "output": "I think it's very important to decentralize governance, as governance at the center or state capital level doesn't respond to the needs of the ground, and we need to empower the local communities."
+    },
+    {
+      "input": "What's the benefit of decentralizing governance in India?",
+      "output": "It creates a dynamic where officials are empowered to take action and people can voice their opinions to local officials, holding them accountable."
+    },
+    {
+      "input": "Which states in India are doing well in terms of health and education?",
+      "output": "Typically, the southern states that have decentralized more, such as Kerala, are doing well in these areas."
+    },
+    {
+      "input": "What's an example of successful decentralization in a northern state?",
+      "output": "Delhi has decentralized and focused on improving schools and healthcare, which is a positive development."
+    },
+    {
+      "input": "How can decentralization help marginalized communities?",
+      "output": "Empowering people with information and the ability to voice opinions to local officials, while also empowering local officials to respond, can help the system respond to marginalized communities."
+    },
+    {
+      "input": "Why is it important to bring the middle class into availing government services?",
+      "output": "The quality of services needs to be improved significantly so that the middle class uses them, rather than just the poor, and this can help draw the middle class into using government services like schools and clinics."
+    },
+    {
+      "input": "What's the current state of service quality in India, particularly in education and healthcare?",
+      "output": "Service is only for the poor or poor services because there is no push back if the quality suffers."
+    },
+    {
+      "input": "How can involving the middle class in public services improve their quality?",
+      "output": "Breaking the middle class also helps enhance quality."
+    },
+    {
+      "input": "Have there been successful initiatives in the past to improve access to education in India?",
+      "output": "The attempt by the Vajpayi government in the early 2000s to get every child into school has been successful, sure, Shiksha Abhiyan was a success story in getting kids into school."
+    },
+    {
+      "input": "What are the next steps to improve education in India beyond just increasing access?",
+      "output": "Now we got to keep them there and teach them, getting them into school is just the first part, and we keep them there through midday meals and all that, that also helps in nutrition, but we need to do more and we need to teach them better."
+    },
+    {
+      "input": "Why is improving human capital crucial for India's development?",
+      "output": "There is no way we will become a developed country unless we fix this problem, you can build all the highways you want, you can build all the statues you want, we still will not be developed until we fix the problem of lagging human capital."
+    },
+    {
+      "input": "How can one define quality and empowering education in India?",
+      "output": "We need to rethink this to some extent, right, so a lot of the focus of the education establishment is rent protection, how do we ensure that only teachers we beds go and teach, etc., is to my mind not really necessary for much of the teaching that is needed."
+    },
+    {
+      "input": "What alternative approaches to education can improve quality and accessibility?",
+      "output": "We need to look at systems that work, what we talk about in the book, for example, is script Ed education, one example is Orchid international schools, which is trying to do it, they create 37,000 lesson plans for all the subjects in school and then they get teachers to deliver those lesson plans."
+    },
+    {
+      "input": "What's your take on scripting in education?",
+      "output": "Scripting makes a young or modestly capable teacher a good teacher, not necessarily a great one, but it's a way to scale up good education."
+    },
+    {
+      "input": "How does scripting impact student learning?",
+      "output": "Scripting improves years of schooling by a huge amount, as it not only imparts knowledge but also tests students regularly and provides remedial education if needed."
+    },
+    {
+      "input": "What role can technology play in teaching?",
+      "output": "Technology can be a GameChanger in teaching, but we need to upgrade the quality of our teachers to effectively use it."
+    },
+    {
+      "input": "Is student capability a constraint in adopting new technology?",
+      "output": "No, students from any background can quickly adapt to new technology, the constraint is actually the teaching capability."
+    },
+    {
+      "input": "What's your opinion on the future of considered opinions that may not fit the current narrative?",
+      "output": "Globally, there's a tilt towards certain genders, and I think we need to consider opinions that may not be popular but are backed by fact."
+    },
+    {
+      "input": "Do you think the contrarian view has a future in today's world?",
+      "output": "I think the same social media that tries to suppress the contrarian view also gives it an opportunity to be expressed."
+    },
+    {
+      "input": "How do you think the contrarian view will adapt to the current media landscape?",
+      "output": "I think it has been excluded from certain fora, but it reemerges in other fora, and people will shift their attention to the platforms they trust."
+    },
+    {
+      "input": "What role do you think alternative media outlets play in promoting contrarian opinions?",
+      "output": "Places like The Wire allow for other opinions to express themselves, and I think this is a true market for ideas, as long as we don't get government censorship."
+    },
+    {
+      "input": "Do you think social media has democratized the creation and dissemination of ideas?",
+      "output": "Yes, social media has allowed creators from all across the world, from urban, middle, and rural sections, to express themselves."
+    },
+    {
+      "input": "How has social media impacted the way people build careers?",
+      "output": "People are able to build careers out of making content on the internet, such as making reels, YouTube videos, and generating revenue from their content."
+    },
+    {
+      "input": "Do you think social media can be utilized more effectively by people from diverse backgrounds to develop economically?",
+      "output": "Yes, I think it's possible for people from all across and from all backgrounds to develop economically through social media, just like how new technologies create new jobs and opportunities."
+    },
+    {
+      "input": "How do you respond to concerns about job loss due to AI?",
+      "output": "New technologies, including AI, create new jobs and opportunities, just like how the internet created new activities that didn't exist before, such as influencing."
+    },
+    {
+      "input": "What's your take on the potential risks and benefits of AI?",
+      "output": "I think we should let AI flourish while keeping an eye on it, as it can make certain jobs easier or even obsolete, but it's not inherently bad or good."
+    },
+    {
+      "input": "Can you give an example of how AI is already being used in a practical way?",
+      "output": "Bloomberg has a service that uses AI to summarize annual reports, making certain tasks easier and more efficient."
+    },
+    {
+      "input": "What role do you think technology plays in society?",
+      "output": "I think as a mature society, if you can use it well, it makes for a lot of value."
+    },
+    {
+      "input": "Can you elaborate on the value technology brings?",
+      "output": "It provides an alternative way of looking at things, a different perspective."
+    },
+    {
+      "input": "What is the significance of festivals like this one in promoting discourse and discussion?",
+      "output": "It's a space for people to come together, share ideas, and learn from each other."
+    },
+    {
+      "input": "How do you think the Arts can be sustained as a career in India?",
+      "output": "I think the future of the Arts is limitless, and we need to recognize that it's more than just a hobby."
+    },
+    {
+      "input": "What kind of investment is needed to support the Arts in India?",
+      "output": "We need to invest in educating kids that there's more to life than just engineering and medicine."
+    },
+    {
+      "input": "What kind of new careers are emerging in India?",
+      "output": "There are lots of new careers, and the Faculty are fantastic, with lots of interests, such as working on the sociology of the neighborhood."
+    },
+    {
+      "input": "What is the focus of the Faculty at the university?",
+      "output": "We have a whole bunch of Faculty from the actual creative arts, who are teaching, and we also recognize the importance of communication skills, such as reading, speaking, and writing."
+    },
+    {
+      "input": "Why is communication skills training important?",
+      "output": "If you can't communicate, you may have fantastic ideas, but nobody knows them because you can't actually get them across."
+    },
+    {
+      "input": "What is the trend in liberal arts education in India?",
+      "output": "We are seeing a lot more liberal arts universities emerge, with lots more careers in Liberal Arts, and a rediscovery of India's Heritage, supported by government initiatives."
+    },
+    {
+      "input": "What is the importance of inclusivity in education?",
+      "output": "We need to ensure there's space for everybody and all communities, religions, etc., and that we don't prioritize one over the other."
+    }
+  ]
+}

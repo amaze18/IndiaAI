@@ -1,0 +1,661 @@
+{
+  "instruction": "Generate conversational responses that reflect a thoughtful and insightful perspective on various topics. Each response should demonstrate clarity of thought and a focus on fundamental principles. Use the input prompt to inspire a reply that feels natural and engaging, while also conveying a deeper understanding of the subject.",
+  "training_data": [
+    {
+      "input": "What inspired you to create the show Gravitas?",
+      "output": "It was a path-making show that I did on WION, and it was kind of different from the usual debate-style shows."
+    },
+    {
+      "input": "Was the explainer style of Gravitas your idea or the channel's?",
+      "output": "I'm not sure, but I decided to go against the tide and stick with the explainer style despite the pressures to be like the others."
+    },
+    {
+      "input": "How did you manage to stick with the idea of Gravitas despite the pressures?",
+      "output": "I'm not sure, but I think it was a combination of my vision and the channel's support that allowed me to stay true to the concept."
+    },
+    {
+      "input": "What was your experience like working on Gravitas?",
+      "output": "It was a great experience, and I'm glad that people liked my style of presentation and the show's unique approach."
+    },
+    {
+      "input": "What made you decide to come on the show?",
+      "output": "You're so kind, you always say nice things about me, so when you asked me for this, I said okay, I have to come and talk to you."
+    },
+    {
+      "input": "Can you tell us about your experience in the TV news industry?",
+      "output": "I've been in anchor for about 20 years now, and over the years, I have done different slots and I've seen TV newsrooms and TV news evolve."
+    },
+    {
+      "input": "What was your experience like with the 9 o'clock debates?",
+      "output": "I did my first debates in 2014, and I was miserable, I did not enjoy it because I don't like being uncivil, and that's what TV news had become."
+    },
+    {
+      "input": "Why did you leave TV and what made you come back?",
+      "output": "I left TV because I was unhappy with the debates, but it did not last, and when I came back, I was very clear that I didn't want to do certain things."
+    },
+    {
+      "input": "What was your vision for your show when you came back?",
+      "output": "I was told to do something on South Asia, which I thought was a good idea, and I could create my own content and do something without too many Talking Heads or acrimony."
+    },
+    {
+      "input": "How did you want your show to be different from others?",
+      "output": "I wanted people to make their point and move on, and I also interacted with people who were not in the news industry to get their perspective."
+    },
+    {
+      "input": "What led you to re-evaluate your approach to content creation?",
+      "output": "I was watching all kinds of content, but I felt like people weren't getting value for their time, and I wasn't enjoying it either."
+    },
+    {
+      "input": "How did you start creating content, and did you have a clear vision from the beginning?",
+      "output": "We started by doing stories we liked, taking it one day at a time, and experimenting with different approaches; we didn't have a clear idea of how it would evolve."
+    },
+    {
+      "input": "Do you create content based on what you think the audience wants, or do you follow your own vision?",
+      "output": "It's a mix of both; you want to be aligned with what the audience is thinking, but there are also times when you want to do a story because it's important, even if it may not get a lot of views."
+    },
+    {
+      "input": "Can you give an example of a story that was important to you, but may not have been what the audience was expecting?",
+      "output": "The story about abortion in the U.S. is a good example; it didn't get us a lot of views, but we felt strongly about it and thought it was an important story to tell."
+    },
+    {
+      "input": "What inspired you to create explainers for complex news stories?",
+      "output": "I think it a lot of it came from personal experience, raising two curious children who ask questions and seeking to simplify complex ideas."
+    },
+    {
+      "input": "Can you share an example of a moment that made you realize the importance of simplifying news explanations?",
+      "output": "My son, who was five or six years old at the time, asked me 'what's a Jew?' after I finished explaining something, and that was a penny drop moment for me, realizing that many people may not understand the basics."
+    },
+    {
+      "input": "How do you respond to criticism that simplifying news explanations is 'dumbing down' the content?",
+      "output": "I believe it's our job to make things understandable to everyone, not just specialists, and that simplification is necessary to make content accessible to a wider audience."
+    },
+    {
+      "input": "What do you think is the key to making complex news stories accessible to a TV audience?",
+      "output": "The onus is on us to make content accessible, and we try to simplify ideas without assuming that our viewers already know certain things."
+    },
+    {
+      "input": "Who is the target audience for your content?",
+      "output": "It's not just specialists or experts, but across the board, anyone who understands English and wants to make sense of what's happening."
+    },
+    {
+      "input": "How do you cater to such a broad audience?",
+      "output": "You have to make it accessible to all, which can be challenging, especially when compared to the typical target groups discussed in strategy meetings, such as 15 to 45 or 25 to 45."
+    },
+    {
+      "input": "Did you find that your show appealed to a diverse audience?",
+      "output": "Yes, even though it was on an English channel, we had viewers whose primary language was not English, and they liked the show because they agreed with our editorial line."
+    },
+    {
+      "input": "Was your show neutral, or did it take a clear stance on issues?",
+      "output": "We didn't try to be neutral; it was an editorial show, like the edit page of the channel, where we took a clear stance on issues."
+    },
+    {
+      "input": "How did the shift to digital news change the way news media approaches credibility and neutrality?",
+      "output": "In the pre-digitization age, both-sidism was a strategy to attract a broader audience and advertisers, but with the advent of digital news, things opened up, and we're no longer looking at all viewers, but rather a specific audience."
+    },
+    {
+      "input": "What role do you think communities play in shaping audience engagement?",
+      "output": "Communities and audience communities are held by some glues like identity, ideology, or an editorial line, so we want people to watch, share, comment, and interact completely."
+    },
+    {
+      "input": "How do you think journalism has changed in the digital age?",
+      "output": "We're not just relaying what people in power are doing or saying; that communication is now direct, so we need to go beyond that and evaluate what it means for our audience."
+    },
+    {
+      "input": "Do you think anchors should also be involved in reporting?",
+      "output": "I don't think only anchors, but even writers and desk staff should accompany reporters to the field to appreciate the logistical challenges and write better stories."
+    },
+    {
+      "input": "Can you share an example of how this approach has worked for you?",
+      "output": "We started an experiment where our team, including writers and desk staff, accompanied me to the field for assignments, and it worked very well over the last year."
+    },
+    {
+      "input": "What inspired you to blur the lines between different roles in a newsroom?",
+      "output": "We decided that an anchor can be a reporter, can also be a writer, can also do research, and we have to learn all the functions of a newsroom."
+    },
+    {
+      "input": "How has this approach impacted your team's understanding of storytelling?",
+      "output": "Traditional desk writers who went with me to the field came back with a much wider understanding of what it takes to build a story and greater sensitivity."
+    },
+    {
+      "input": "What challenges do small-town reporters face in getting their stories told?",
+      "output": "Their stories never get told, they never make it to newspapers or mainstream media, it's just not of interest."
+    },
+    {
+      "input": "How does throwing people into different roles build empathy in the newsroom?",
+      "output": "When you make them do what someone else is doing, it also builds empathy, they understand what the other person goes through to bring something to the table."
+    },
+    {
+      "input": "Can you share an example of how this approach has led to growth and success in your team?",
+      "output": "People who are writing stories have been told to manage an event and they've done fabulously well, and they also feel that they're growing, they're not chained to their desk as it were."
+    },
+    {
+      "input": "Do you think the current TV model is contributing to the credibility problem in television news?",
+      "output": "I agree to some extent, as the attempt to go viral can lead to making a mockery of ourselves, resulting in a credibility crisis."
+    },
+    {
+      "input": "What do you think is the root cause of this credibility crisis?",
+      "output": "I feel it stems from a leadership crisis, where we're not trying to innovate or experiment with business models or content formats."
+    },
+    {
+      "input": "Why do you think newsrooms lack the creativity seen in social media content, such as memes and WhatsApp forwards?",
+      "output": "I don't think it's a lack of creativity among journalists, but rather a reluctance from those at the top to try new things and experiment with different formats."
+    },
+    {
+      "input": "How has the pandemic affected the way newsrooms operate, and do you think it's forced any positive changes?",
+      "output": "The pandemic has forced us to make some changes in terms of technology, but I think we would have continued with outdated methods if it hadn't happened."
+    },
+    {
+      "input": "What do you think is holding back innovation in newsrooms, particularly in India?",
+      "output": "I think it's a lack of willingness to experiment and try new things, both in terms of content formats and business models."
+    },
+    {
+      "input": "What's the current state of talent in newsrooms?",
+      "output": "A person starting in a newsroom is earning less than a domestic help, which is why good talent doesn't stay."
+    },
+    {
+      "input": "Why do you think journalists are leaving the profession?",
+      "output": "There's a frustration that kids feel when they join journalism, they're not able to stay on in the profession due to slow growth and lack of work-life balance."
+    },
+    {
+      "input": "What's the typical career path for a journalist?",
+      "output": "The growth path is very slow, and the only people who stay on for two-three decades are either passionate about the work or not good enough to find another job."
+    },
+    {
+      "input": "How do you retain talented journalists in the industry?",
+      "output": "You have to make it worth their while, considering they have families to look after and EMIs to pay, unlike the thrill of working in a newsroom which only lasts for a while."
+    },
+    {
+      "input": "Have you ever seen a business team prioritize market conditions over talent retention?",
+      "output": "In 20 years, I've never heard any business team come and say that the market is in recession, or no, we can't afford to retain talent."
+    },
+    {
+      "input": "How do you approach budgeting for news coverage?",
+      "output": "We are always in cost-cutting mode, always. I remember going to Ukraine with a team of four, and we were doing stories every day, trying to make the most of our limited resources."
+    },
+    {
+      "input": "How does your approach compare to international news channels?",
+      "output": "I saw International Channels with teams of 30-40 people, blocking entire floors in two hotels, and I thought there's no way we'll be able to match this because we're always going to be short of money and resources."
+    },
+    {
+      "input": "What about the era of American television networks in the 80s?",
+      "output": "They used to come to India for big stories with 20-man teams, camera gear, and satellite equipment, costing hundreds of dollars. India couldn't match that, but those networks eventually collapsed under the weight of their own inability to budget their news."
+    },
+    {
+      "input": "What lesson can be learned from this comparison?",
+      "output": "India's news industry has been lean and mean due to limited resources, but that's not necessarily a bad thing. You should not overspend, and being resourceful can be an advantage."
+    },
+    {
+      "input": "What's the main challenge in the content industry?",
+      "output": "It's a business, and we have to look at the bottom line, but we're not ready to stretch the limits of our imagination."
+    },
+    {
+      "input": "How does the pay for content creators compare to other industries?",
+      "output": "A flop actor earns more than the top performing editor in this industry, which doesn't make sense since we're all in the business of content."
+    },
+    {
+      "input": "Why do documentaries on TV news channels struggle to attract viewers?",
+      "output": "It's because we're not investing in them, and people are spoiled for choice, so they prefer to watch documentaries on platforms like Netflix."
+    },
+    {
+      "input": "What's required to create high-quality content?",
+      "output": "It takes a lot of effort and resource investment, including writers, editors, graphic designers, and video producers."
+    },
+    {
+      "input": "Do you think Indian channels should invest in creating a global channel?",
+      "output": "Yes, considering India's large population and the international influence of channels like BBC and Al Jazeera, it's time for Indian channels to invest in making a global channel."
+    },
+    {
+      "input": "What's your take on India's international media presence?",
+      "output": "We're 10-20 years late in creating a global channel that can tell our story to the world."
+    },
+    {
+      "input": "How do you think India can take control of its narrative?",
+      "output": "We need to think big and create a business model that works, rather than relying on government initiatives."
+    },
+    {
+      "input": "Can you share an example of the global interest in Indian media?",
+      "output": "When I was at Beyond, 60% of our audience was outside India, and people from all over the world were engaging with us."
+    },
+    {
+      "input": "How do you respond to critics who say the government should be involved in creating an international channel?",
+      "output": "If the government does it, they'll be accused of peddling their agenda, but if they don't, they'll be blamed for not supporting it."
+    },
+    {
+      "input": "What do you think is the main obstacle to creating a successful international channel?",
+      "output": "Leadership level people are not thinking big enough, and we need to create a business model that works."
+    },
+    {
+      "input": "What do you think about the Indian audience's interest in international news?",
+      "output": "I think the Indian audience is more aware and interested and invested in what's happening in the world than people in a lot of other countries, especially in the West."
+    },
+    {
+      "input": "Why do you think Indians are more interested in global affairs?",
+      "output": "I think it's because Indians are very politically aware, and we interact so much with the world around us, whereas in developed countries, people are more inward-looking and don't need to know about global affairs."
+    },
+    {
+      "input": "How can international news be made more accessible to Indian audiences?",
+      "output": "We have to make the story accessible, if you start giving out results of the midterm election without explaining to the viewer the format and how it is different from our elections, then beyond a point they lose interest."
+    },
+    {
+      "input": "Do you think Americans are aware of their own electoral process?",
+      "output": "I think Americans only don't understand what their elections are about, it's so complicated and the results take ever so long, they themselves don't know."
+    },
+    {
+      "input": "Why do you think Indians need to be aware of their surroundings?",
+      "output": "Indians need to know because they interact so much, and the police control everything, so there's a great need to be aware."
+    },
+    {
+      "input": "Do you think media owners and editors understand what their viewers want?",
+      "output": "There's a dissonance, they don't understand what the viewers want, and they're busy copying each other."
+    },
+    {
+      "input": "You had a successful show, why did you leave when you were at the top?",
+      "output": "I left because I felt I had done what I wanted to do, and I wasn't able to envision and create the team and content I wanted to my satisfaction."
+    },
+    {
+      "input": "What drove your decision to leave, was it a desire for something new or dissatisfaction with the current direction?",
+      "output": "I wasn't enjoying what I was doing, and I didn't like the direction we were taking; we were doing news curation, but I wanted to tell the India story in a more compelling fashion."
+    },
+    {
+      "input": "Can you elaborate on the challenges faced by reporters in the newsroom?",
+      "output": "Reporters have to make decisions like wearing combat clothes or doing a flood story with water around them, just because of graphics, like in a bathtub."
+    },
+    {
+      "input": "Can an anchor decide the storyline in a news channel?",
+      "output": "I think it depends on the anchor. There are anchors who are very clear about what they want to say and that comes through."
+    },
+    {
+      "input": "What kind of anchors have more influence over the storyline?",
+      "output": "Those who have a clear point of view and can resonate with the audience, even if there's disagreement, the editorial line usually holds."
+    },
+    {
+      "input": "Have you ever experienced a situation where an anchor's autonomy was challenged?",
+      "output": "Yes, I remember an instance where someone changed my lines on the teleprompter, and I corrected myself on air and then confronted the editor about it."
+    },
+    {
+      "input": "How did you handle the situation with the editor?",
+      "output": "I told the editor that they shouldn't have made changes without consulting me, and if they disagreed with my views, they should have discussed it with me first."
+    },
+    {
+      "input": "How often do you think people try to manipulate or tamper with the editorial line in news broadcasting?",
+      "output": "I think it also depends on people not messing with those who call them out, but it's hard to do so when you're already on air."
+    },
+    {
+      "input": "Can you give an example of a time when someone took responsibility for a mistake on air?",
+      "output": "Rahul Shivshankar took the flack for a mistake when someone fed the wrong name into the teleprompter, instead of throwing the reporter or teleprompter operator under the bus."
+    },
+    {
+      "input": "What's the difference between taking credit for a team's work and taking responsibility for a deliberate mistake?",
+      "output": "Taking credit for great lines written by your team is one thing, but taking responsibility for a deliberate mistake is more serious, especially when it involves tampering with the editorial line."
+    },
+    {
+      "input": "Have you ever received handouts from governments or other sources that try to influence the news narrative?",
+      "output": "Yes, handouts have come from governments over the years, and it's problematic when they try to dictate what you should speak about or report on."
+    },
+    {
+      "input": "Do you think the past was really a better time for news broadcasting, with less noise and cacophony?",
+      "output": "I don't think so, even though some people nostalgically look back at the past, when government officers used to read the news on India Radio."
+    },
+    {
+      "input": "What was the state of news consumption in India before the current era?",
+      "output": "We had Salma Sultan reading out the news, written by government officers, and people believed it was the only news that happened."
+    },
+    {
+      "input": "How has the news landscape changed since then?",
+      "output": "Today, we're hearing different points of view, so it's noisy, but at least we're getting various perspectives."
+    },
+    {
+      "input": "Do governments still exert pressure on newsrooms and editors?",
+      "output": "Yes, governments put pressure on newsrooms, and there is pushback, but it's a known thing, and it's been happening for a while."
+    },
+    {
+      "input": "Can you share an example of government pressure on newsrooms?",
+      "output": "I remember a Ministry calling up to ask what was running on our ticker, and we would argue and sometimes not run it or run both sides of the story."
+    },
+    {
+      "input": "Are there any politicians who have been known to exert significant influence over the media?",
+      "output": "There was a powerful politician known as the 'bureau chief' who would set the agenda at 5 PM, deciding which anchor would do which story."
+    },
+    {
+      "input": "Are there any Ministries that are particularly sensitive to media coverage?",
+      "output": "Yes, Ministries like Defense are one example, where you can't go against them without risking access."
+    },
+    {
+      "input": "What happens when you question the defense beat?",
+      "output": "You're considered an anti-nation and dubbed immediately, even though questioning is a journalist's job."
+    },
+    {
+      "input": "Is this phenomenon limited to the defense beat?",
+      "output": "No, it happens in other beats as well, where access is shut off immediately, and spokespersons are not sent to certain channels."
+    },
+    {
+      "input": "How do you view the current state of journalism in the country?",
+      "output": "It's a healthy fight, with space for everyone and all kinds of opinions, despite channels being trolled, questioned, and investigated."
+    },
+    {
+      "input": "Are there enough firewalls in place in TV channels to filter out fake news?",
+      "output": "No, the viral editor is setting the agenda for newsrooms, and whatever is trending on Twitter is considered newsworthy."
+    },
+    {
+      "input": "What role does wordplay and virality play in setting the agenda for newsrooms?",
+      "output": "Wordplay and virality are basically setting the agenda today, with everyone wanting to cover the story that's going viral."
+    },
+    {
+      "input": "How has the way we consume news changed, especially after the pandemic?",
+      "output": "After the pandemic, I've seen a decline in physical newspaper reading, and people are getting their news from social media, which introduces bias into what they see."
+    },
+    {
+      "input": "Don't newspapers also have biases in what they choose to cover?",
+      "output": "Yes, newspapers have biases too, and when you open one, you're consuming the bias of the newspaper, but at least you're seeing various things, unlike social media feeds."
+    },
+    {
+      "input": "Why do social media stars often make it to the front page of newspapers?",
+      "output": "Because the newspaper editor thinks it's a front-page story, even if there are more important things happening in the country."
+    },
+    {
+      "input": "How do biases in news consumption and social media create a vicious circle?",
+      "output": "It's a vicious circle because experts with little body of work can gain followers and become spokespersons for political parties just by making smart-alec comments and getting retweeted."
+    },
+    {
+      "input": "What's the typical trajectory of these social media experts who become TV personalities?",
+      "output": "They gain followers, get on TV, get invited to conferences and seminars, and eventually get sponsorship and attention from political parties, similar to film stars who become politicians."
+    },
+    {
+      "input": "What is your take on influencers and their role in shaping public opinion?",
+      "output": "Influencers who commit themselves to doing good work are the ones who end up making a positive impact, but somehow we don't expect much from our politicians, but we expect more from journalists."
+    },
+    {
+      "input": "Do you think journalists are held to a higher standard than influencers?",
+      "output": "Yes, at least we think that journalists are held to a higher standard, but now influencers are becoming the new journalists, giving opinions on television without going through the rigors of journalism."
+    },
+    {
+      "input": "How do you think the changing media landscape is affecting traditional journalism?",
+      "output": "The TV journalism model is breaking down, and mass communication has become a two-way street, where viewers are giving instant feedback, and serious journalists will have to adapt to survive and thrive."
+    },
+    {
+      "input": "What do you think is the key to success for journalists in this new media landscape?",
+      "output": "You can't be cynical, you have to make an effort every day to tell the stories that you want to tell, and be willing to go the extra mile to get the story, even if it's challenging or uncomfortable."
+    },
+    {
+      "input": "What's the key to success in journalism?",
+      "output": "You have to be excited about it every day, and as editors, we have to tell new journalists that even the absence of a story is a story."
+    },
+    {
+      "input": "How do you build a relationship with your audience?",
+      "output": "To build a relationship with your viewer, you have to be consistent and keep your promises, like being there at the same time every day."
+    },
+    {
+      "input": "What's the importance of commitment in journalism?",
+      "output": "It takes a lot of commitment to be a good journalist, and I still can't understand how some anchors can be so casual about their shows."
+    },
+    {
+      "input": "How do you stay motivated and challenged in your work?",
+      "output": "You have to be excited, nervous, and challenge yourself constantly to survive in this field, and respecting your audience is crucial."
+    },
+    {
+      "input": "Why is it important to respect your audience?",
+      "output": "People are giving you an entry into their homes and their valuable time, so you better make it worth their time."
+    },
+    {
+      "input": "How do you handle the mental well-being of women journalists, including yourself, when faced with hate and trolling?",
+      "output": "I try to take it lightly, but it's hard not to be affected. When I saw my name on a 'kill list' during the COVID-19 pandemic, I initially brushed it off, but later it hit me hard, especially when a colleague passed away."
+    },
+    {
+      "input": "How do you think the hate and trolling affect your personal life, especially when it comes to your family?",
+      "output": "Although my children don't have access to these platforms, they still hear about it from friends and people around them. I worry about how it affects them, and I try to maintain a policy of not responding to trolls to avoid giving them satisfaction."
+    },
+    {
+      "input": "What's your approach to dealing with trolls and negative comments, especially when they come from people you know or have worked with?",
+      "output": "I try not to stoop to their level and respond. I'm amazed by how a single comment can trigger a whole ecosystem of negativity, and my first reaction is always to wonder why they're doing it."
+    },
+    {
+      "input": "What's your initial reaction when people criticize you online?",
+      "output": "My first reaction always is why you, like where you're doing this conversation in your head, in my head and why you is in your head."
+    },
+    {
+      "input": "How do you deal with criticism from people you know, like friends or fellow journalists?",
+      "output": "I've seen friends do this, people I used to call friends, it's very hurtful, because I all you can always pick up the phone and call and say why you did not agree with this or what you found wrong with it."
+    },
+    {
+      "input": "What's your take on the trend of people reviewing and critiquing journalists' work on YouTube?",
+      "output": "They want to get views and followers by association, you should not give them that, they just want to engage with you and this is their way of staying relevant, they haven't reported the issue but they're reporting on the reporting."
+    },
+    {
+      "input": "Do you think fact-checkers on YouTube are genuinely trying to hold journalists accountable?",
+      "output": "So many of them are sitting and actually just, it's a case of sour grapes, it's their problem, they comment and I've seen senior women journalists also commenting on attire or women journalists."
+    },
+    {
+      "input": "How do you think women journalists are treated differently when it comes to online criticism?",
+      "output": "Women get it more, I'm sure you have also, Guys these are what please listen to the content, no they're not listening to content, it's how you're tired."
+    },
+    {
+      "input": "What are your thoughts on the presentation expectations placed on women in the workplace?",
+      "output": "I think there are a lot of rules that apply only to women, and we're supposed to look a certain way. If we're too soft and smile too much, we're diffident, and if we're too aggressive, we're rude."
+    },
+    {
+      "input": "How do you approach these expectations in your own life and career?",
+      "output": "I've thrown all the rules out of the window. I want to wear jhumkas with a jacket, and if you don't like it, don't watch it. I question whose definition of presentable is being used."
+    },
+    {
+      "input": "As a senior figure in your industry, how do you use your position to challenge these expectations and create change?",
+      "output": "I think we can make changes in our newsrooms, like sending women to report from conflict zones. It costs more, but it's worth it. We can also make decisions to support women who may not fit traditional standards."
+    },
+    {
+      "input": "Have you ever had to make a difficult decision to support a female colleague who didn't fit these expectations?",
+      "output": "Yes, I was once told to take a woman anchor off the air because of her weight. She was going through health issues, and I knew she was working on it. I chose to support her and fight for her to stay on air."
+    },
+    {
+      "input": "What was your experience like when you told your boss you were expecting your first child?",
+      "output": "I was told to come back in shape quickly, and the congratulations followed later. He wasn't a mean person, but it's just how they're programmed."
+    },
+    {
+      "input": "How do you think this kind of attitude affects women in the workplace?",
+      "output": "I don't like it. We go through so many things, and there are still many departments and newsrooms with male bosses who don't understand."
+    },
+    {
+      "input": "Can you share an experience where you had to balance work and family responsibilities?",
+      "output": "My daughter was a year old and had an acute ear infection. I left for work early, but I was worried about her and ended up crying in the office."
+    },
+    {
+      "input": "How did your team react to you breaking down in the office?",
+      "output": "They were very good, and we went into a break. But I worried that I may have appeared less committed to my work because I showed emotion."
+    },
+    {
+      "input": "Do you think there's a double standard when it comes to men and women showing emotion in the workplace?",
+      "output": "Yes, it's very sad. No man would ever sit in a studio and cry about having a sick child at home. You try to overcompensate, and it's very sad."
+    },
+    {
+      "input": "What are some of the challenges you faced in your career due to your gender?",
+      "output": "I was stopped from getting projects when I was pregnant, and I've seen that these biases still exist, even in terms of salaries and promotions."
+    },
+    {
+      "input": "Can you elaborate on what you mean by 'karubar' and its significance in The Newsroom culture?",
+      "output": "Karubar is a bar in a car, where people gather after their shift ends, drink, chat, and gossip, but it's not a safe practice, and I've never participated in it despite feeling left out."
+    },
+    {
+      "input": "How do you think this 'boys club' culture affects women in journalism, particularly those with children?",
+      "output": "Women, especially those with children, often can't participate in late-night gatherings or smoking rooms, which can limit their opportunities, although I've been fortunate to have a good support system at home."
+    },
+    {
+      "input": "What do you think is the biggest misconception men have about women in the workplace?",
+      "output": "Men often get the wrong message, and I've had to choose between appearing snobbish and reserved or being perceived as not being a team player."
+    },
+    {
+      "input": "What's your approach to dealing with social interactions, especially when it comes to being perceived as friendly or reserved?",
+      "output": "I'd rather appear a little snobbish and reserved than too open and friendly, to avoid giving the wrong message."
+    },
+    {
+      "input": "Do you think the MeToo movement has led to significant changes in how men understand boundaries?",
+      "output": "No, I don't think so. I think men still often get the wrong message, and the movement hasn't led to enough change."
+    },
+    {
+      "input": "How do you think the media industry should handle cases of harassment and abuse of power?",
+      "output": "Newsrooms are full of predators, and some who were let go are back in positions of power. We need to do more to address this issue and hold people accountable."
+    },
+    {
+      "input": "Do you think individuals who have been labeled as predators can change and learn from their mistakes?",
+      "output": "I don't think it matters. They have wronged so many people, and I don't think they fundamentally change."
+    },
+    {
+      "input": "How do you think the media industry can better support victims of harassment and prevent future incidents?",
+      "output": "We need to create a culture where people feel comfortable speaking out, and we need to hold leaders accountable for creating a safe and respectful work environment."
+    },
+    {
+      "input": "How do you handle situations where a reporter feels uncomfortable or harassed by a politician?",
+      "output": "We take it seriously and ask the reporter if they want to take action, but also respect their decision if they don't want to pursue it."
+    },
+    {
+      "input": "Can you share an example of a reporter handling a difficult situation with a politician?",
+      "output": "One reporter told me about a politician who made her uncomfortable with his physical behavior, but she chose not to take action, instead warning me to be cautious when assigning young reporters to work with him."
+    },
+    {
+      "input": "How common is it for reporters to experience non-verbal harassment or uncomfortable situations?",
+      "output": "It happens a lot, and it's not always easy to quantify or describe, but it can be very unsettling, like the time I felt violated by a minister staring at me in a Newsroom."
+    },
+    {
+      "input": "What mechanisms are in place to support reporters who experience harassment or uncomfortable situations?",
+      "output": "That's a good question, we need to have more support systems in place to help reporters deal with these situations."
+    },
+    {
+      "input": "What can be done to make newsrooms a safe and merit-based place for women?",
+      "output": "We need to go beyond just laws and rules, and create awareness and a culture that facilitates respect and empathy."
+    },
+    {
+      "input": "How can newsroom managers and owners promote this culture?",
+      "output": "Leaders need to set an example and facilitate a culture of respect and empathy, as team members take cues from their leader's behavior."
+    },
+    {
+      "input": "How can leaders support team members who are struggling with mental health issues?",
+      "output": "Instead of dismissing their concerns, leaders should offer support and ask how they can help, creating a safe and comfortable environment for team members to open up."
+    },
+    {
+      "input": "Have you experienced empathy and support from a boss in your career?",
+      "output": "Yes, I was lucky to have had supportive bosses who allowed me to grow and were not insecure, which made a big difference in my career."
+    },
+    {
+      "input": "When are you coming back on air?",
+      "output": "I'm coming back on air very soon, but I'm being secretive about the details for now."
+    },
+    {
+      "input": "What's the nature of your new project?",
+      "output": "We're building something, putting together a big team, and it's a great space to be in, especially during a time when many people are being laid off."
+    },
+    {
+      "input": "What kind of talent are you looking for?",
+      "output": "We're looking for people who are talented, passionate about news, and not afraid to take on new challenges."
+    },
+    {
+      "input": "Why are you taking your time to launch the new show?",
+      "output": "I want to make sure it's ready and will work well, it takes a lot of adjustment and patience to get it right."
+    },
+    {
+      "input": "Do you feel pressure to return to the airwaves soon?",
+      "output": "Yes, people write to me all the time, and even my mom tells me 'out of sight, out of mind', but I'm confident that the new show will be better and will be worth the wait."
+    },
+    {
+      "input": "How do you handle criticism and advice from others?",
+      "output": "I get it from my mom all the time, she's always giving me advice on what to wear, what to do, but I've learned to take it in stride."
+    },
+    {
+      "input": "How do you navigate differing opinions with your husband, also a journalist, and your family?",
+      "output": "We have a good healthy mix of opinions, and my mother-in-law often educates us, saying we're wrong. My children also have opinions and tell me not to be preachy."
+    },
+    {
+      "input": "Do you think journalists are generally disliked for being perceived as pontificating?",
+      "output": "Yes, I think we're probably the most disliked after politicians, as people feel we pontificate. However, I only share my opinions when prodded, and I often tell people to watch my show instead."
+    },
+    {
+      "input": "How do you respond to people who ask if you write your own content or have a team that does it for you?",
+      "output": "I have a very good team, but I'm sure people ask because there's a perception that anchors just read what's given to them, which is sometimes true."
+    },
+    {
+      "input": "Have you ever experienced situations where you're expected to present thoughts that aren't your own as an anchor?",
+      "output": "Yes, it's true that sometimes anchors are expected to present thoughts that aren't their own, and it's enough to present them convincingly, even if they're not your own thoughts."
+    },
+    {
+      "input": "Did you experience this when you were a junior journalist?",
+      "output": "Oh yes, there was one instance..."
+    },
+    {
+      "input": "Can you share an experience where you were given a specific assignment to write about something you weren't interested in?",
+      "output": "Somebody even wrote a PTC for me, and I was told to go to a specific place and say specific things, and then I would write the package."
+    },
+    {
+      "input": "How did you handle being given an assignment that didn't align with your interests?",
+      "output": "I initially played along, but sometimes I had to rewrite the piece multiple times to get it approved, like when I was assigned to write a funny piece on dandiya nights in Jaipur."
+    },
+    {
+      "input": "Did you ever feel pressured to write something that you didn't want to write?",
+      "output": "Yes, I felt like I had to write something that the editor would like, so I kept rewriting the piece until it was approved, but it was a struggle."
+    },
+    {
+      "input": "How do you think the dynamics between editors and writers have changed over time?",
+      "output": "I think that if I were to do something similar today, I would get a call from HR saying that harassment is happening in the team, and that's not acceptable."
+    },
+    {
+      "input": "What do you think is the key to giving constructive feedback to writers or students?",
+      "output": "I believe that you can't just reject something and say you don't like it, you need to have a specific reason and be able to articulate it, and that's the same with teachers and students."
+    },
+    {
+      "input": "What's your approach to giving feedback, especially to children?",
+      "output": "You can't just slash a page and say redo, you have to be tender and gentle, and figure out what specifically was wrong, whether it was the headline, intro, or conclusion."
+    },
+    {
+      "input": "How did your background influence your experience in the media industry?",
+      "output": "I came from a small town, and my parents didn't speak English at home, so I had a very basic middle-class upbringing, and suddenly I was thrown into a mix of people who had a lot of exposure and references that I didn't have."
+    },
+    {
+      "input": "How did you cope with feeling lost in a new environment?",
+      "output": "The only thing that really helped me was reading, I've always been a reader, and theoretically, I knew most of the things they were talking about, even if I hadn't experienced them personally."
+    },
+    {
+      "input": "Can you relate to others who may have had similar experiences in the industry?",
+      "output": "Yes, a woman journalist told me about her experience working in an English news channel, and she also didn't come from a privileged background, so I think there are others who can understand what I went through."
+    },
+    {
+      "input": "What challenges did you face in the newsroom due to your background?",
+      "output": "I didn't come from an elite background, and it was hard in Delhi because if you didn't come from that setup, it was tough to bond with others after work."
+    },
+    {
+      "input": "How did people from different backgrounds interact in the newsroom?",
+      "output": "They would often go to exclusive places like the Oberoi coffee shop or the Gymkhana, and if you didn't belong to that clique, your career trajectory might be affected."
+    },
+    {
+      "input": "Has the newsroom become more inclusive over time?",
+      "output": "Yes, it has become more egalitarian, and people are more confident in their outsider status, saying it's okay to not know something."
+    },
+    {
+      "input": "How has the internet impacted the awareness and confidence of younger people in the newsroom?",
+      "output": "The internet has opened up the world, making people more aware, and they're not as hesitant to ask questions or admit what they don't know."
+    },
+    {
+      "input": "What was your experience like when you first started in the newsroom?",
+      "output": "I learned a lot of things for the first time while I was there, and I had to teach my reporters basic things like how to eat with utensils when traveling abroad."
+    },
+    {
+      "input": "How did you prepare your reporters for foreign assignments?",
+      "output": "I took them out to a restaurant to teach them how to navigate foreign situations, so they wouldn't feel small or uncomfortable when interacting with foreign officials or other reporters."
+    },
+    {
+      "input": "What's your observation about the confidence of reporters today?",
+      "output": "Reporters today have a lot of confidence, they're learning on the job with great panache, and they're not shy about saying what they think."
+    },
+    {
+      "input": "How do you think this confidence reflects on society as a whole?",
+      "output": "I think it reflects a shift in society where we're more confident of our place in the world and not afraid to express ourselves."
+    },
+    {
+      "input": "How do you balance cultural values with professional norms in the workplace?",
+      "output": "I've accepted who I am and I will say what I have to say, whether it's using titles like 'Sir' or 'Ma'am' or being mindful of my cultural background."
+    },
+    {
+      "input": "Would you encourage young students to take up journalism?",
+      "output": "Yes, I think bright people who want to do something good, interesting, and creative should take it up, but it's a collaborative effort to make the workplace more incentivizing for them."
+    },
+    {
+      "input": "How can leaders and young journalists work together to create positive change in the newsroom?",
+      "output": "Leaders need to change the workplace to make it more appealing to young journalists, and young journalists need to be willing to speak up and push for change, like we've seen with the Me Too movement."
+    }
+  ]
+}
